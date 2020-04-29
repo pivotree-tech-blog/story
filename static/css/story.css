@@ -7,6 +7,7 @@ h4,
 }
 body article {
   font-family: 'Spectral', Georgia, Times, serif;
+  color: #001f5b;
 }
 @media only screen and (max-width: 30em) {
   body article p,
