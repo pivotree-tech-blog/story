@@ -22,3 +22,6 @@ It has a lot of features for people who invest effort in their websites and blog
 
 This is just a fraction of Story's feature set, see the [demo site](https://story.xaprb.com/) for much more
 documentation and screenshots.
+
+NOTE: The theme has been modified for Pivotree Tech blog
+
